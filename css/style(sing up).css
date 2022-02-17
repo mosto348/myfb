@@ -1,0 +1,24 @@
+.all{
+    width: 500px;
+    background-color: rgb(241, 238, 232);
+    padding: 10px 20px 40px 20px;
+    margin: auto;
+    border-style: solid;
+    border-color: rgb(238, 234, 222);
+}
+.all input{
+    padding: 5px;
+    width: 230px;
+    
+}
+.all select{
+    width: 32%;
+    padding: 3px;
+}
+.button{
+    text-align: center;
+    }
+    h2{
+        font-size: 30px;
+        padding: 0px;
+    }
